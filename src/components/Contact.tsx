@@ -73,7 +73,7 @@ const Contact = () => {
                 <div className="ml-4">
                   <h3 className="font-semibold text-paynes-gray mb-1">Zone d'intervention</h3>
                   <p className="text-custom-gray">
-                    Canton de Genève, Annemasse et alentours
+                    Canton de Genève, Vaud et alentours
                   </p>
                 </div>
               </div>
