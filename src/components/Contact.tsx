@@ -137,7 +137,7 @@ const Contact = () => {
                     />
                   </label>
                 </p>
-                
+                <input type="hidden" name="site_version" value="Suisse🇨🇭" />
                 <p>
                   <button
                     type="submit"
