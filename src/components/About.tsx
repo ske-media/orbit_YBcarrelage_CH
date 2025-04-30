@@ -35,7 +35,7 @@ const About = () => {
             </p>
             
             <p className="text-custom-gray mb-8 leading-relaxed">
-              Que ce soit pour des intérieurs élégants ou des espaces extérieurs raffinés, YB Carrelage transforme chaque projet en un véritable atout esthétique et durable. L'entreprise intervient dans tout le Grand Genève, notamment à Genève, Annemasse et ses environs.
+              Que ce soit pour des intérieurs élégants ou des espaces extérieurs raffinés, YB Carrelage transforme chaque projet en un véritable atout esthétique et durable. L'entreprise intervient à Genève, Vaud et ses environs.
             </p>
 
             <div className="space-y-6">
