@@ -52,31 +52,6 @@ const projects = [
     title: 'Design Exclusif',
     description: 'Création unique et personnalisée',
   },
-  {
-    image: 'https://i.imgur.com/WKnd7dx.jpeg',
-    title: 'Robinet Élégant',
-    description: 'Finition haut de gamme et design raffiné',
-  },
-  {
-    image: 'https://i.imgur.com/3QRXAld.jpeg',
-    title: 'Lavabo en Pierre',
-    description: 'Magnifique réalisation en pierre naturelle',
-  },
-  {
-    image: 'https://i.imgur.com/YG3ABdI.jpeg',
-    title: 'Finitions Parfaites',
-    description: 'Attention méticuleuse aux détails',
-  },
-  {
-    image: 'https://i.imgur.com/AfqP0Q6.jpeg',
-    title: 'Excellence des Finitions',
-    description: 'Qualité artisanale exceptionnelle',
-  },
-  {
-    image: 'https://i.imgur.com/02FFd4Y.jpeg',
-    title: 'Interrupteur en Marbre',
-    description: 'Magnifique création en marbre naturel',
-  },
 ];
 
 const Portfolio = () => {

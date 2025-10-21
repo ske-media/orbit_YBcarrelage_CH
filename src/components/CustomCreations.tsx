@@ -17,6 +17,26 @@ const images = [
   {
     url: 'https://i.imgur.com/hEyz2OY.jpeg',
     alt: 'Création personnalisée - Design innovant'
+  },
+  {
+    url: 'https://i.imgur.com/WKnd7dx.jpeg',
+    alt: 'Robinet élégant - Finition haut de gamme'
+  },
+  {
+    url: 'https://i.imgur.com/3QRXAld.jpeg',
+    alt: 'Lavabo en pierre - Magnifique réalisation'
+  },
+  {
+    url: 'https://i.imgur.com/YG3ABdI.jpeg',
+    alt: 'Finitions parfaites - Attention aux détails'
+  },
+  {
+    url: 'https://i.imgur.com/AfqP0Q6.jpeg',
+    alt: 'Excellence des finitions - Qualité artisanale'
+  },
+  {
+    url: 'https://i.imgur.com/02FFd4Y.jpeg',
+    alt: 'Interrupteur en marbre - Création naturelle'
   }
 ];
 
