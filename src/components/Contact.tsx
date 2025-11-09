@@ -59,10 +59,10 @@ const Contact = () => {
                 <div className="ml-4">
                   <h3 className="font-semibold text-paynes-gray mb-2">Email</h3>
                   <a
-                    href="mailto:info@yb-carrelage.com"
+                    href="mailto:info@ybcarrelage.com"
                     className="block text-lg text-premium-base hover:text-premium-dark transition-colors font-medium"
                   >
-                    info@yb-carrelage.com
+                    info@ybcarrelage.com
                   </a>
                   <p className="text-sm text-custom-gray mt-2">
                     Cliquez sur l'adresse pour nous envoyer un email directement
