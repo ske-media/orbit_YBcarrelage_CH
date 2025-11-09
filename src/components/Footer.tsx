@@ -1,5 +1,5 @@
 import React from 'react';
-import { Phone, MapPin, Instagram, ArrowUp } from 'lucide-react';
+import { Phone, MapPin, Instagram, ArrowUp, Mail } from 'lucide-react';
 
 const Footer = () => {
   const scrollToTop = () => {
@@ -62,6 +62,14 @@ const Footer = () => {
           <div className="flex flex-col items-center md:items-start">
             <h3 className="text-white font-semibold text-xl mb-6">Contact</h3>
             <ul className="space-y-4 w-full">
+              <li className="flex items-center justify-center md:justify-start text-gray-300 bg-white/5 px-6 py-3">
+                <Mail className="w-5 h-5 mr-3 text-premium-base flex-shrink-0" />
+                <div className="flex flex-col">
+                  <a href="mailto:info@yb-carrelage.com" className="hover:text-premium-base transition-colors">
+                    info@yb-carrelage.com
+                  </a>
+                </div>
+              </li>
               <li className="flex items-center justify-center md:justify-start text-gray-300 bg-white/5 px-6 py-3">
                 <Phone className="w-5 h-5 mr-3 text-premium-base" />
                 <div className="flex flex-col">
